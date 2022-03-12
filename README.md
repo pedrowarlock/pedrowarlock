@@ -27,6 +27,8 @@
 ##
   
   
+  <a href="https://docs.google.com/uc?export=download&id=13kTuFJ3QwFiyxF071q6VaHSXYRv412IB" target="_blank"><img src="https://img.shields.io/badge/-Curriculum Vitae-20077B5?style=for-the-badge&logo=folder&logoColor=white"></a>
+  
 <a href="https://t.me/PedroWarlock" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
   <a href="https://api.whatsapp.com/send?phone=5521965465094" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
   <a href="https://www.instagram.com/pedro_warlock/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
